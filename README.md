@@ -1,4 +1,4 @@
-### 팀 개발을 위한 Git GitHub 시작하기 개정판
+## 팀 개발을 위한 Git GitHub 시작하기 개정판
 
 ![Static Badge](https://img.shields.io/badge/celestii-Hello_Github)
 
