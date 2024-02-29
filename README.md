@@ -1,8 +1,13 @@
-### Hi there 👋
+### 팀 개발을 위한 Git GitHub 시작하기 개정판
 
+![Static Badge](https://img.shields.io/badge/celestii-Hello_Github)
+
+### :octocat: 안녕하세요? 고양이입니다. :v:
+
+- 🔭 지금 열심히 Git GitHub 책을 업데이트하는 중입니다.
 <!--
 **celestii/celestii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
