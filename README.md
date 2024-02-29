@@ -1,6 +1,6 @@
-## 팀 개발을 위한 Git GitHub 시작하기 개정판
+팀 개발을 위한 Git GitHub 시작하기 개정판
 
-![Static Badge](https://img.shields.io/badge/celestii-Hello_Github-blue)
+![Static Badge](https://img.shields.io/badge/celestii-Hello_GitHub-blue)
 
 ### :octocat: 안녕하세요? 고양이입니다. :v:
 
